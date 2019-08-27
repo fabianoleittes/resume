@@ -9,14 +9,18 @@ I'm extremely passionate about software engineering and making people’s lives 
 
 I really love to use my ability to think strategically, critically, and creatively to solve problems that in the end will help people.
 
-I have been in the technology industry for over 10 years, helping businesses to achieve better results as a leader and engineer with deep skills in the Ruby ecosystem.
+I have been working as a leader and engineer in the technology industry for over 10 years. My main mission has been helping businesses to achieve better results in their large scale production, team engagement, and skill building.
 
-I have worked for different kinds of companies, from startups to big companies, coordinating people and developing projects.
+My experience consists of working with many kinds of companies from startups to corporations, managing people and developing projects.
 
 I have a technical leadership profile with experience in creating large-scale web applications and RESTful APIs.
 
 I have good knowledge of design patterns, clean code, testing, refactoring techniques, and agile methodologies.
 
+
+I also like to train Jiu-Jitsu, skateboarding and running sometimes.
+
+Specialties Ruby, Rails, Go, JavaScript(Ember, React, Vue), Manager, Product Management, Requirements Analysis, Agility, Lean Management, Lean Thinking, Agile Methodologies. 
 ### Experience
 
 #### Liv Up
