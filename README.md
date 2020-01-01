@@ -1,4 +1,4 @@
-## Fabiano Leite | Engineering Manager | Software Engineer | Agilist
+## Fabiano Leite | Engineering Manager | Lead Software Engineer | Software Engineer
 
 [fabianoleittes@gmail.com](mailto:fabianoleittes@gmail.com) / [github.com/fabianoleittes](https://github.com/fabianoleittes) / [Linkedin](https://www.linkedin.com/in/fabianoleittes/?locale=en_US)
 
@@ -69,7 +69,7 @@ Technologies & Tools: Ruby, Rails, JavaScript, Newrelic, Sidekiq, Heroku, Postgr
 **Lead Software Engineer - 2014**
 
 Worked on creating a product with a team of 8 full stack engineers and a Product Owner, a solution that allowed millions of sellers to easily and quickly expose their products to the digital marketplace of Walmart, the world's largest retailer.
-Significantly reducing analytics time for inclusion in the marketplace, enabling your products to be viewed by the millions of customers who travel at Walmart.com.
+Significantly reducing analytics time for inclusion in the marketplace, enabling your products to be viewed by the millions of customers who travel to Walmart.com.
 We use scrum for management and planning, cutting-edge technologies such as Ruby on Rails and its entire ecosystem for the front-end, Java in the backend for creating RESTfull APIs, the database with MongoDB and Oracle.
 Workflow with seamless integration via Jenkins, queueing systems with ActiveMQ, the cache with MemcacheDB. A scalable, sustainable and user- friendly solution. With a robust and disruptive architecture.
 
