@@ -46,8 +46,8 @@ Drove several complex regular product releases.
 Worked with clients from different segments, such as insurance, investments, chatbots, and financial control application.
 
 
-#### FL Solutions
-**Lead Software Engineer(consultant) @Move2 The Next Level - 2015 / 2016**
+#### @Move2 The Next Level
+**Lead Software Engineer - 2015 / 2016**
 
 Manage a team of 5 full-stack developers, with 100% of time coding, responsible for building, scaling, and maintaining some Ruby/Rails applications.
 Built some projects from scratch, MVPs, using agile methodologies, combining engineering and business strategies.
@@ -57,7 +57,7 @@ Re-writing checkout system increasing conversion rates by over 10%.
 Technologies & Tools: Ruby, Rails, JavaScript, MongoDB, Newrelic, Heroku, PostgreSQL, Stripe, AWS, RSpec, Scrum.
 
 #### Wall Jobs
-**Software Engineer (contract) - 2014 / 2015**
+**Lead Software Engineer (contract) - 2014 / 2015**
 
 Worked on the new version of the portal, responsible for all front-end, back- end services and processing integrations of partners.
 Developing the next generation HR platform with Ruby on Rails.
@@ -84,7 +84,7 @@ Technologies: Ruby, Rails, Unicorn, Sidekiq, Java, Jetty, Spring, Resteasy, JMS,
 **Software Engineer -  2012 / 2013 @Shopcliq**
 
 #### Rumba
-**Software Engineer - 2012**
+**Senior Software Engineer - 2012**
 
 #### WebPesados
 **Lead Software Engineer - 2011 / 2012**
